@@ -1,5 +1,6 @@
 macOS High Sierra EFI for the Dell Inspiron N5040 using OpenCore. I will try to keep this EFI up to date with the latest OpenCore and kexts
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2577a3bf-7ea8-4d94-a240-43998a0863bc" />
 
 # WARNING! SMBIOS DETAILS ARE NOT INCLUDED IN THE CONFIG.PLIST.
 You will have to use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to generate a **MacBookPro7,1** SMBIOS for your system, and add them to the config.plist.
