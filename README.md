@@ -21,6 +21,7 @@ Do note if your hardware differs, while unlikely, you may have issues.
 - Disk: Toshiba 160GB 7200RPM 2.5"
 
 ## Issues:
+- Neither VGA nor HDMI work. This is a limitation of Apple's Arrandale drivers, they only support LVDS displays (which is how the N5040's internal display is connected)
 - Screen brightness cannot be changed. This is a known bug with Arrandale and can't be fixed.
 - NVRAM does not work and likely never will. This also means sleep will not work.
 
